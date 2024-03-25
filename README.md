@@ -8,6 +8,6 @@ This is the other source code of my learning and projects <a href="https://githu
   <h1 style="font-size: 2rem; font-weight: bold; margin-bottom: 10px;">About</h1>
   <p style="font-size: 1.1rem; line-height: 1.5; margin-bottom: 20px;">Hi there! I'm Ishwor Thapa Chhetri, an aspiring developer. This course, "HTML CSS JavaScript Projects," was created to share my knowledge and experience with you. In this course, you'll learn how to build simple, responsive websites using HTML, CSS, and JavaScript.</p>
  
-  <p style="font-size: 1.1rem; line-height: 1.5; margin-bottom: 20px;">If you have any questions, please feel free to contact me through my email: ithapachhetri@gmail.com </p>
+
  
 </div>
