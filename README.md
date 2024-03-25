@@ -1,6 +1,6 @@
 # <a href="https://github.com/Ishworrr/HTML-CSS-JavaScript-projects" style="background-color: #1a73e8; color: white; font-weight: bold; padding: 10px 20px; border-radius: 5px; text-decoration: none;">HTML CSS JavaScript Projects</a>
 
-This is the other source code of my learning and projects <a href="https://github.com/Ishworrr/ishworthapachhetrii" style="background-color: #1a73e8; color: white; font-weight: bold; padding: 10px 20px; border-radius: 5px; text-decoration: none;"> You will find copy of youtube clone.</a>
+This is the other source code of my learning and projects <a href="https://github.com/Ishworrr/ishworthapachhetrii" style="background-color: #1a73e8; color: white; font-weight: bold; padding: 10px 20px; border-radius: 5px; text-decoration: none;"> You will find copy of Amazon clone.</a>
 <div>
 
   </div>
